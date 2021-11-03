@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ceferino Jose II
+title: Serkan Gürel
 
-tagline: Software Engineer
+tagline: Makine ve İmalat Mühendisi
 
 sass:
   sass_dir: assets/css
