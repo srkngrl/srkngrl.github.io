@@ -1,0 +1,24 @@
+{
+  "name": "serkan-gurel-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Serkan Gurel - Mechanical Engineer",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=/index.html",
+    "dev": "live-server --port=3000 --open=/index.html --wait=500",
+    "serve": "http-server -p 3000 -o",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "portfolio",
+    "mechanical-engineer",
+    "defense-industry",
+    "personal-website"
+  ],
+  "author": "Serkan Gurel",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "http-server": "^14.1.1"
+  }
+}
